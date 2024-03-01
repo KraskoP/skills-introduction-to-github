@@ -4,7 +4,7 @@
 
 This site was built using [GitHub Pages](https://pages.github.com/).
 
-*List no1
-*List no2
-*List no3
+* List no1
+* List no2
+* List no3
 Use `git status` to list all new or modified files that haven't yet been committed.
