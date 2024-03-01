@@ -1,7 +1,7 @@
 #Welcome to my GitHub profile!
 ## That's test
 ### Check the markdown
-> Citatiom
+> Citation <
 *List no1
 *List no2
 *List no3
