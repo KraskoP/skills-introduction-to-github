@@ -1,7 +1,9 @@
 #Welcome to my GitHub profile!
 ## That's test
 ### Check the markdown
-> Citation <
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 *List no1
 *List no2
 *List no3
